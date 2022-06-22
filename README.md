@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 
 
 <!--
 **aiden-cao/aiden-cao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![image](https://user-images.githubusercontent.com/104969608/174966536-52d573fb-0283-412a-8229-9408fff84da8.png)
+<img style="width: 300px;" id=img src=https://user-images.githubusercontent.com/104969608/174966536-52d573fb-0283-412a-8229-9408fff84da8.png />
